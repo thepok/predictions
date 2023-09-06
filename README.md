@@ -2,7 +2,9 @@
 My Predictions of the Future
 
 <details><summary>2023-09-01 Perfect Music generation</summary>Incredible good minutes long music generation with MusicGen or another similar system (2023-6)</details>
-<details><summary>2023-09-01 ChatGPT surpassed</summary>By September i expect public weights of a Model stronger than ChatGTP(2023-6)</details>
+<details><summary>2023-09-01 ChatGPT surpassed✅</summary>By September i expect public weights of a Model stronger than ChatGTP(2023-6)
+  
+RESOLUTION:6.9.2023 releas of Falcon 180B - as strong as ChatGTP</details>
 <details><summary>2023-09-01 GPT surpassed</summary>By September i expect a new Model stronger than original GTP4(2023-6)</details>
 <details><summary>2023-09-01 AGI bwtween 2023-09-01 and 2027</summary></details>
 <details><summary>2024-06 Novels of great quality to any plot written by AI</summary> with hundreds of pages, without logical flaws.</details>
